@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<EODTickers>
+
+<Ticker SecurityCode="DSEX" ISIN="DSEX" AssetClass="IN" CompulsorySpot="N" TradeDate="20190829" Close="5095.78" Open="5140" High="5147.48" Low="5092.7" Var="-44.22213" VarPercent="-0.86035" />
+
+<Ticker SecurityCode="DS30" ISIN="DS30" AssetClass="IN" CompulsorySpot="N" TradeDate="20190829" Close="1800.06" Open="1817.71" High="1820.51" Low="1798.2" Var="-17.65797" VarPercent="-0.97144" />
+
+<Ticker SecurityCode="DS30" ISIN="DS30" AssetClass="IN" CompulsorySpot="N" TradeDate="20190829" Close="1800.06" Open="1817.71" High="1820.51" Low="1798.2" Var="-17.65797" VarPercent="-0.97144" />
+
+<Ticker SecurityCode="DS30" ISIN="DS30" AssetClass="IN" CompulsorySpot="N" TradeDate="20190829" Close="1800.06" Open="1817.71" High="1820.51" Low="1798.2" Var="-17.65797" VarPercent="-0.97144" />
+
+
+</EODTickers>
